@@ -1,3 +1,3 @@
 # RayhaanLakdawala.github.io
 
-This is my README
+This website is about bikes, and what my favourite bike is.
