@@ -1,0 +1,61 @@
+body{
+    background-color: beige;
+ }
+
+p{
+    text-align: center;
+    font-size: 25px;
+    background-color: aliceblue;
+}
+
+table{
+    border:1px solid black;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 25px;
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+.help{
+    text-align: left;
+    background-color: aquamarine;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    position: absolute;
+}
+
+.help > h1{
+    font-size: 40px;
+}
+
+.help > a{
+    font-size: 25px;
+}
+
+.help > a:hover{
+    background-color: goldenrod;
+}
+
+.top_bar{
+    background-color: aliceblue;
+    overflow: hidden;
+}
+
+.top_bar > a{
+  float: left;
+  color: #000000;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.top_bar >a:hover{
+    background-color: grey;
+}
